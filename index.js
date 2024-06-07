@@ -1,17 +1,13 @@
 var sidenav = document.querySelector('.side-navbar');
 
-function showNavBar() 
+function showNavbar() 
 {
-    sidenav.style.display ="block";
-    // sidenav.style.left =0;
-}
-function closeNavBar() {
-    sidenav.style.display ="none";
-    // sidenav.style.left ="-60%";
+    // sidenav.style.display ="block";
+    sidenav.style.left ="0";
 }
 
-function showNavBar() 
-{
-    sidenav.style.display ="block";
-    // sidenav.style.left =0;
+function closeNavbar() {
+    // sidenav.style.display ="none";
+    sidenav.style.left ="-60%";
 }
+
