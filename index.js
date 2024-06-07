@@ -14,5 +14,5 @@ function showNavBar()
 {
     sidenav.style.display ="block";
     // sidenav.style.left =0;
-    //Vibu
+    //Vibul
 }
